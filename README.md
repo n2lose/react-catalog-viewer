@@ -1,4 +1,4 @@
-# React: Catalog Viewer
+# React: Catalog Viewer Carousel slide
 
 **Commands**
 
